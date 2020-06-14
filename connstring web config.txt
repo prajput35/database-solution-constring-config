@@ -1,0 +1,3 @@
+<connectionStrings>
+    <add name="connstring" connectionString="Server=tcp:demoserver4000.database.windows.net,1433;Initial Catalog=appdb;Persist Security Info=False;User ID=demousr;Password=Shakinstev123;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;" providerName="System.Data.SqlClient"/>
+  </connectionStrings>
